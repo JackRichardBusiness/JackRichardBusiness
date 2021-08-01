@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello! 👋👋
 
-<!--
-**JackRichardBusiness/JackRichardBusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Jack, a 👨‍🎓 high school student in 🌎 Worcester, Massachusetts.
 
-Here are some ideas to get you started:
+#### Programming has been my passion for years, and during that time, I've developed...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A mobile game engine. (🚧 in progress)
+- An exiting mobile game. (🚧 in progress)
+- A virtual assistant app.
+- Image detection through machine learning.
+- A remade version of The Oregon Trail game from 1971. (🏫 group school project)
+- Soooo many more small personal projects.
+
+#### I know programming languages, such as...
+
+- ☕ Java
+- 🐍 Python
+- 🌊🌊 C++ (get it?)
+- ⏩ Swift
+- ❔ Kotlin
+- And a few more!
+
+#### I have some work experience, like...
+
+- Teaching 7-10 year olds the basics of programming through games. (✨ my favorite so far)
+- Designing websites for family and friends.
+- Developing mobile apps for online clients.
+
+
+##### Fun fact: I have two turtles. 🐢🐢
