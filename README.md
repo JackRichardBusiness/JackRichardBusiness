@@ -5,7 +5,7 @@
 #### Programming has been my passion for years, and during that time, I've developed...
 
 - A mobile game engine. (🚧 in progress)
-- An exiting mobile game. (🚧 in progress)
+- An exciting mobile game. (🚧 in progress)
 - A virtual assistant app.
 - Image detection through machine learning.
 - A remade version of The Oregon Trail game from 1971. (🏫 group school project)
